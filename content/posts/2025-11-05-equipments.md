@@ -15,7 +15,7 @@ tags: ["マニュアル"]
 
 ## コンピュータ類
 ### デスクトップ 1 (denken-pc-1)
-![デスクトップパソコン-1](https://osu-denken.github.io/blog/images/2025-11-06-pc-1.png)
+![デスクトップパソコン-1](/images/2025-11-06-pc-1.png)
 
 - CPU: [Intel Core i5 12600K](https://www.intel.co.jp/content/www/jp/ja/products/sku/134589/intel-core-i512600k-processor-20m-cache-up-to-4-90-ghz/specifications.html) (3.7GHz, 10コア16スレッド, L1Cache-864KB L2Cache-9.5MB L3Cache-20MB)
 - メモリ: 32GB (16GBx2, DDR5-4800 2400MHz, [ADATA](https://www.adata.com/jp/consumer/category/computer-memory/dram-module-ddr5-4800-u-dimm/))
@@ -28,7 +28,7 @@ tags: ["マニュアル"]
 イーサネットでの利用のためWi-Fiは利用可能であるが、通常は無効にしている。
 
 ### デスクトップ 2 (denken-pc-2)
-![デスクトップパソコン-2](https://osu-denken.github.io/blog/images/2025-11-06-pc-2.png)
+![デスクトップパソコン-2](/images/2025-11-06-pc-2.png)
 
 - CPU: [AMD Ryzen 7 9800X3D](https://www.amd.com/ja/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html) (4.7GHz, 8コア16スレッド, L1Cache-640KB L2Cache-8MB L3Cache-96MB)
 - メモリ: 32GB (16GBx2, DDR5-5600 2800MHz, 未調査)
@@ -41,7 +41,7 @@ tags: ["マニュアル"]
 イーサネットでの利用のためWi-Fiは利用可能であるが、通常は無効にしている。
 
 ### デスクトップ 3 (denken-pc-3)
-![デスクトップパソコン-3](https://osu-denken.github.io/blog/images/2025-11-08-pc-3.png)
+![デスクトップパソコン-3](/images/2025-11-08-pc-3.png)
 
 - CPU: Intel Core i7 8700 (3.2GHz, 6コア12スレッド, L1Cache-384KB L2Cache-1.5MB L3Cache-12MB)
 - メモリ: 32GB (16GBx2, DDR4-3602 1801MHz, G.Skil)
@@ -52,7 +52,7 @@ tags: ["マニュアル"]
 - OS: Windows 11 Home
 
 ### デスクトップ 4 (denken-pc-4)
-![デスクトップパソコン-4](https://osu-denken.github.io/blog/images/2025-11-06-pc-4.png)
+![デスクトップパソコン-4](/images/2025-11-06-pc-4.png)
 
 - CPU: Intel Core i7 8700 (3.2GHz, 6コア12スレッド, L1Cache-384KB L2Cache-1.5MB L3Cache-12MB)
 - メモリ: 16GB (8GBx2, DDR4-2666 1333 MHz)
@@ -65,7 +65,7 @@ tags: ["マニュアル"]
 ライセンスはWindows 11 Home となっており、異なったライセンスのWindowsが入っているため再度インストールすることを推奨
 
 ### コンピュータ 5 (denken-pc-5)
-![CP-5](https://osu-denken.github.io/blog/images/2025-11-08-mc-sv.png)
+![CP-5](/images/2025-11-08-mc-sv.png)
 
 - CPU: Intel Core i7 4930K (3.4GHz, 6コア12スレッド, L1Cache-384KB L2Cache-1.5MB L3Cache-12MB)
 - メモリ: 16GB (4GBx4 DDR3)
@@ -77,7 +77,7 @@ tags: ["マニュアル"]
 大学祭用のマイクラサーバー、PaperMC を起動しています。メモリが6枚刺さっているのにも関わらず、4枚のみしか認識していない。
 
 ### ミニPC 6 (denken-pc-6)
-![Intel Mac mini](https://osu-denken.github.io/blog/images/2025-11-21-intelmacmini.png)
+![Intel Mac mini](/images/2025-11-21-intelmacmini.png)
 
 - CPU: Intel Core i3 8100B (3.6GHz, 4コア4スレッド, L1Cache-256KB L2Cache-1MB L3Cache-4MB)
 - GPU: Intel UHD Graphics 630
@@ -95,8 +95,8 @@ tags: ["マニュアル"]
 
 
 ### Raspberry Pi 4 Model B x2
-![ラズパイ-フタあり](https://osu-denken.github.io/blog/images/2025-11-06-raspi-1.png)
-![ラズパイフタなし](https://osu-denken.github.io/blog/images/2025-11-06-raspi-2.png)
+![ラズパイ-フタあり](/images/2025-11-06-raspi-1.png)
+![ラズパイフタなし](/images/2025-11-06-raspi-2.png)
 
 手のひらサイズの小型コンピュータです。LinuxであるDebianベースのRaspberry OSがインストールされています。
 大学祭の展示でScratchを用いたプログラミング体験に使いました。
@@ -107,17 +107,17 @@ tags: ["マニュアル"]
 ### 破損したサーバ ~~サーバ x3~~
 RAIDコントローラが壊れている可能性があります。
 
-![サーバー](https://osu-denken.github.io/blog/images/2025-11-08-sv.png)
+![サーバー](/images/2025-11-08-sv.png)
 - Dell PowerEdge R630 x3<br>
 詳細は[部室サーバに関する情報など](https://osu-denken.github.io/blog/2025/10/30/club-sv.html) にて記載しています。
 
 - サーバーラック
 
-![サーバーラック](https://osu-denken.github.io/blog/images/2025-11-08-sv-rack.png)
+![サーバーラック](/images/2025-11-08-sv-rack.png)
 
 ## ディスプレイ x7
 ### KH275V (I-O DATA)
-![KH275V](https://osu-denken.github.io/blog/images/2025-11-08-KH275V.png)
+![KH275V](/images/2025-11-08-KH275V.png)
 
 {{< link-card url="https://www.iodata.jp/product/lcd/wide/kh275v/index.htm" >}}
 
@@ -133,7 +133,7 @@ RAIDコントローラが壊れている可能性があります。
 - 消費電力: 通常16.7W 最大34W
 
 ### FLATRON 24EA53VQ-P (LG)
-![FLATRON 24EA53VQ-P](https://osu-denken.github.io/blog/images/2025-11-06-FLATRON-24EA53VQ-P.png)
+![FLATRON 24EA53VQ-P](/images/2025-11-06-FLATRON-24EA53VQ-P.png)
 
 {{< link-card url="https://www.lg.com/jp/monitors/fhd-qhd/24ea53vq-p/" >}}
 
@@ -147,7 +147,7 @@ RAIDコントローラが壊れている可能性があります。
 - 音声入出: ステレオミニジャック、マイク
 
 ### FLATRON E2742V-BN (LG)
-![FLATRON E2742V-BN](https://osu-denken.github.io/blog/images/2025-11-08-flatron-e2742v-bn.png)
+![FLATRON E2742V-BN](/images/2025-11-08-flatron-e2742v-bn.png)
 
 {{< link-card url="https://www.lg.com/jp/monitors/fhd-qhd/e2742v-bn/" >}}
 
@@ -161,7 +161,7 @@ RAIDコントローラが壊れている可能性があります。
 - 音声入出: ステレオミニジャック、マイク
 
 ### VX207NE (ASUS)
-![VX207NE](https://osu-denken.github.io/blog/images/2025-11-08-vx207ne.png)
+![VX207NE](/images/2025-11-08-vx207ne.png)
 
 {{< link-card url="https://www.asus.com/jp/displays-desktops/monitors/eye-care/vx207ne/" >}}
 
@@ -175,7 +175,7 @@ RAIDコントローラが壊れている可能性があります。
 - 音声入出: なし
 
 ### ProLite GE2488HS (iiyama)
-![ProLite-GE2488HS](https://osu-denken.github.io/blog/images/2025-11-08-prolite-ge2488hs.png)
+![ProLite-GE2488HS](/images/2025-11-08-prolite-ge2488hs.png)
 
 {{< link-card url="https://www.mouse-jp.co.jp/iiyama/support/download/manual/lcd/GE2488HS-usermanual-j.pdf?msockid=1602dc13a9b56bbb338bca92a8356ae9" >}}
 
@@ -189,7 +189,7 @@ RAIDコントローラが壊れている可能性があります。
 - 音声入出: ステレオミニジャック (イヤホン, マイク)
 
 ### PCVD-17SA1 (VAIO)
-![PCVD-17SA1](https://osu-denken.github.io/blog/images/2025-11-08-pcvd-17sa1.png)
+![PCVD-17SA1](/images/2025-11-08-pcvd-17sa1.png)
 
 {{< link-card url="https://contents.sony.jp/support/vaio/download/man/4679244011.pdf" >}}
 
@@ -203,7 +203,7 @@ RAIDコントローラが壊れている可能性があります。
 - 音声入出: なし
 
 ### AQUOS LC-22K9 テレビ (SHARP)
-![AQUOS](https://osu-denken.github.io/blog/images/2025-11-12-aquos.png)
+![AQUOS](/images/2025-11-12-aquos.png)
 
 {{< link-card url="https://jp.sharp/support/aquos/product/lc22k9.html" >}}
 
@@ -218,7 +218,7 @@ RAIDコントローラが壊れている可能性があります。
 
 ## ケーブル類
 ### LANケーブル
-![UTPケーブル-Cat5e](https://osu-denken.github.io/blog/images/2025-11-08-utp-cable.png)
+![UTPケーブル-Cat5e](/images/2025-11-08-utp-cable.png)
 
 それぞれの機器をネットワークに繋げるためのケーブルです。LANケーブルの一つとしてUTPケーブルが多く使われています。
 
@@ -245,7 +245,7 @@ RAIDコントローラが壊れている可能性があります。
 
 ## ネットワーク類
 ### L2スイッチ/ルータ UNIVERGE IX2215 (NEC)
-![NEC IX2215](https://osu-denken.github.io/blog/images/2025-11-06-nec-ix2215.png)
+![NEC IX2215](/images/2025-11-06-nec-ix2215.png)
 
 {{< link-card url="https://jpn.nec.com/univerge/ix/Info/ix2215.html" >}}
 
@@ -270,7 +270,7 @@ USBメモリによる初期設定が可能です。<br>
 BRIは右から3つそれぞれ違った形状のポートですが、ISDNは現時点でほとんど廃止されているため、基本的には利用しません。
 
 ### アクセスポインタ（ルータ）
-![アクセスポインタ](https://osu-denken.github.io/blog/images/2025-11-06-ap.png)
+![アクセスポインタ](/images/2025-11-06-ap.png)
 
 本来はルータですが、無線機能（アクセスポインタ）のみを利用しているため、アクセスポインタとして表記しています。Wi-Fiを利用するためのものです。
 
@@ -308,7 +308,7 @@ HDMI接続の映像出力先のモニタをボタンで切り替えることが�
 ステレオミニジャックで音声入力します。
 
 ### Webカメラ
-![webカメラ](https://osu-denken.github.io/blog/images/2025-11-08-webcamera.png)
+![webカメラ](/images/2025-11-08-webcamera.png)
 
 部会をするGoogle Meetに使われています。
 マイクが内蔵されています。
@@ -316,7 +316,7 @@ HDMI接続の映像出力先のモニタをボタンで切り替えることが�
 ### USBメモリ
 
 ### プリンター DCP-J926N-B
-![プリンタ](https://osu-denken.github.io/blog/images/2025-11-06-printer.png)
+![プリンタ](/images/2025-11-06-printer.png)
 
 EPSON製のプリンターです。
 

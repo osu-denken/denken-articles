@@ -27,11 +27,11 @@ Windows向けにはGCC(C/C++コンパイラ)やヘッダファイルなどのパ
 
 1. 上記のリンクを開き、`x86_64-15.2.0-release-win32-seh-ucrt-rt_v13-rev0.7z` を選択してダウンロードします。
 
-![2025-11-10-mingw.png](https://osu-denken.github.io/blog/images/2025-11-10-mingw.png)
+![2025-11-10-mingw.png](/images/2025-11-10-mingw.png)
 
 2. ダウンロードしたファイルを 7-Zip もしくは OSデフォルトの機能で展開します。
 
-![2025-11-10-dlfile.png](https://osu-denken.github.io/blog/images/2025-11-10-dlfile.png)
+![2025-11-10-dlfile.png](/images/2025-11-10-dlfile.png)
 
 3. 展開して作成されたフォルダ`x86_64-15.2.0-release-win32-seh-ucrt-rt_v13-rev0`の中に入っている`mingw64`を任意の場所に移動します。ここでは Cドライブ直下にlangフォルダを作成し、そこに `C:/lang/mingw64/` として移動しました。
 Cドライブ直下を開くには、エクスプローラー -> PC -> 任意のドライブ名 (C:) より開きます。
@@ -41,23 +41,23 @@ Cドライブ直下を開くには、エクスプローラー -> PC -> 任意の
 
 1. 設定 -> システム -> バージョン情報 から システムの詳細設定 を開きます。
 
-![2025-11-10-setting.png](https://osu-denken.github.io/blog/images/2025-11-10-setting.png)
+![2025-11-10-setting.png](/images/2025-11-10-setting.png)
 
 2. 「環境変数(N)...」ボタン を選択します。
 
-![2025-11-10-sys-detail.png](https://osu-denken.github.io/blog/images/2025-11-10-sys-detail.png)
+![2025-11-10-sys-detail.png](/images/2025-11-10-sys-detail.png)
 
 
 3. 開かれたウィンドウの下側「システム環境変数(S)」 の 変数 Path をダブルクリックします。もしくは選択して「編集(I)...」ボタンをクリックします。
 
-![2025-11-10-select-path.png](https://osu-denken.github.io/blog/images/2025-11-10-select-path.png)
+![2025-11-10-select-path.png](/images/2025-11-10-select-path.png)
 
 4. 「新規(N)」ボタン を選択し、入力欄が出てくるので先ほど移動したmingw64のbinフォルダを指定します。ここでは `C:\lang\mingw64\bin` を指定しました。問題なければOKボタンをクリックします。
 
-![2025-11-10-set-path.png](https://osu-denken.github.io/blog/images/2025-11-10-set-path.png)
+![2025-11-10-set-path.png](/images/2025-11-10-set-path.png)
 
 5. 「OK」をクリックします。
-![2025-11-10-env-ok.png](https://osu-denken.github.io/blog/images/2025-11-10-env-ok.png)
+![2025-11-10-env-ok.png](/images/2025-11-10-env-ok.png)
 
 ## コードを実行する
 VSCode上で下記のコードを動作確認で実行してみてください。
