@@ -1,0 +1,21 @@
+name: dispatch
+
+# 記事の更新を osu-denken/blog に伝え、サイトを作り直させる
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Trigger the blog build
+        env:
+          GH_TOKEN: ${{ secrets.BLOG_DISPATCH_TOKEN }}
+        run: |
+          gh api repos/osu-denken/blog/dispatches \
+            -f event_type=articles-updated
