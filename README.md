@@ -5,8 +5,9 @@
 - https://github.com/osu-denken/denken-hugo
 
 ## ディレクトリ構造
-- `content/posts/`: 記事（Hugo の front matter）
-- `static/images/`: 記事に使う画像
+- `content/posts/`: 記事ページ（Hugoのfront matter）
+- `content/pages/`: 固定ページ（Hugoのfront matter）
+- `static/images/`: ページに用いる画像
 
 記事は `denken-hugo` のサイトに取り込んで公開します。
 
