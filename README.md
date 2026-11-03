@@ -2,7 +2,7 @@
 電研ブログのmarkdownの記事や固定ページ、画像を保存するためのリポジトリ
 
 環境設定は以下のリポジトリにて
-- https://github.com/osu-denken/legacy-blog
+- https://github.com/osu-denken/blog
 
 ## ディレクトリ構造
 - `content/posts/`: 記事ページ（Hugoのfront matter）
