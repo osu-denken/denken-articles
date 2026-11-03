@@ -2,7 +2,7 @@
 title: "Tailscaleについて調べてみた"
 date: 2025-07-23
 slug: "tailscale"
-tags: [VPN]
+tags: ["VPN"]
 ---
 
 

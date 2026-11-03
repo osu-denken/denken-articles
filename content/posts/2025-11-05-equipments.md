@@ -4,7 +4,7 @@ date: 2025-11-05
 lastmod: 2025-12-19
 slug: "equipments"
 author: osu-denken
-tags: [マニュアル]
+tags: ["マニュアル"]
 ---
 
 

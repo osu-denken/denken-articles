@@ -2,7 +2,7 @@
 title: "大産大のStudent Hubと電研のDiscordサーバーへの入り方"
 date: 2025-11-03
 slug: "sandai-discord"
-tags: [Discord, マニュアル]
+tags: ["Discord", "マニュアル"]
 ---
 
 

@@ -2,7 +2,7 @@
 title: "ArchLinuxインストールメモ"
 date: 2025-11-12
 slug: "archlinux"
-tags: [Linux,OS]
+tags: ["Linux", "OS"]
 ---
 
 
